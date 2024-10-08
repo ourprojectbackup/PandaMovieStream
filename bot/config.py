@@ -17,7 +17,7 @@ class Telegram:
 
     OWNER_ID = 5351120371
     ALLOWED_USER_IDS = env.get("ALLOWED_USER_IDS", "").split()
-    BOT_USERNAME = "@Pandamoviestreambot"
+    BOT_USERNAME = ""
     BOT_TOKEN = ""
     CHANNEL_ID = -1001626866241
     SECRET_CODE_LENGTH = 6
