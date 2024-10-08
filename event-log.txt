@@ -1,0 +1,130 @@
+[08/10/2024 02:19:55][bot][INFO] -> initializing...
+[08/10/2024 02:19:56][uvicorn][INFO] -> Web server is started!
+[08/10/2024 02:19:56][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[08/10/2024 02:22:26][bot][INFO] -> initializing...
+[08/10/2024 02:22:26][uvicorn][INFO] -> Web server is started!
+[08/10/2024 02:22:26][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[08/10/2024 02:23:02][bot][INFO] -> initializing...
+[08/10/2024 02:23:02][uvicorn][INFO] -> Web server is started!
+[08/10/2024 02:23:02][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[08/10/2024 02:23:14][bot][INFO] -> initializing...
+[08/10/2024 02:23:14][uvicorn][INFO] -> Web server is started!
+[08/10/2024 02:23:14][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[08/10/2024 02:25:38][bot][INFO] -> initializing...
+[08/10/2024 02:25:38][uvicorn][INFO] -> Web server is started!
+[08/10/2024 02:25:38][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[08/10/2024 02:25:57][bot][INFO] -> initializing...
+[08/10/2024 02:25:57][uvicorn][INFO] -> Web server is started!
+[08/10/2024 02:25:57][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[08/10/2024 02:28:15][bot][INFO] -> initializing...
+[08/10/2024 02:28:15][uvicorn][INFO] -> Web server is started!
+[08/10/2024 02:28:15][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[08/10/2024 02:30:19][bot][INFO] -> initializing...
+[08/10/2024 02:30:19][uvicorn][INFO] -> Web server is started!
+[08/10/2024 02:30:19][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[08/10/2024 02:30:23][bot][INFO] -> Telegram client is now started.
+[08/10/2024 02:30:23][bot][INFO] -> Loading bot plugins...
+[08/10/2024 02:30:23][bot][INFO] -> Loaded 4 plugins.
+[08/10/2024 02:30:23][bot][INFO] -> Bot is now ready!
+[08/10/2024 02:30:53][uvicorn.access][INFO] -> 127.0.0.1:55873 - "GET / HTTP/1.1" 302
+[08/10/2024 02:32:02][uvicorn.access][INFO] -> 127.0.0.1:55941 - "GET / HTTP/1.1" 302
+[08/10/2024 02:34:25][uvicorn.access][INFO] -> 127.0.0.1:55997 - "GET /dl/4552?code=b3e328763ba0 HTTP/1.1" 200
+[08/10/2024 02:35:03][uvicorn.access][INFO] -> 127.0.0.1:55998 - "GET /stream/4552?code=b3e328763ba0 HTTP/1.1" 200
+[08/10/2024 02:35:04][uvicorn.access][INFO] -> 127.0.0.1:55998 - "GET /dl/4552?code=b3e328763ba0 HTTP/1.1" 206
+[08/10/2024 02:35:05][uvicorn.access][INFO] -> 127.0.0.1:56008 - "GET /favicon.ico HTTP/1.1" 404
+[08/10/2024 02:35:09][uvicorn.access][INFO] -> 127.0.0.1:56008 - "GET /dl/4552?code=b3e328763ba0 HTTP/1.1" 206
+[08/10/2024 02:35:10][uvicorn.access][INFO] -> 127.0.0.1:56012 - "GET /dl/4552?code=b3e328763ba0 HTTP/1.1" 206
+[08/10/2024 02:35:45][uvicorn.access][INFO] -> 127.0.0.1:56024 - "GET /dl/4552?code=b3e328763ba0 HTTP/1.1" 200
+[08/10/2024 02:59:56][bot][INFO] -> initializing...
+[08/10/2024 02:59:56][uvicorn][INFO] -> Web server is started!
+[08/10/2024 02:59:56][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[08/10/2024 02:59:57][bot][INFO] -> Telegram client is now started.
+[08/10/2024 02:59:57][bot][INFO] -> Loading bot plugins...
+[08/10/2024 02:59:57][bot][INFO] -> Loaded 4 plugins.
+[08/10/2024 02:59:57][bot][INFO] -> Bot is now ready!
+[08/10/2024 03:00:11][uvicorn.access][INFO] -> 127.0.0.1:56857 - "GET /dl/4552?code=b3e328763ba0 HTTP/1.1" 200
+[08/10/2024 03:01:18][bot][INFO] -> initializing...
+[08/10/2024 03:01:18][uvicorn][INFO] -> Web server is started!
+[08/10/2024 03:01:18][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[08/10/2024 03:01:19][bot][INFO] -> Telegram client is now started.
+[08/10/2024 03:01:19][bot][INFO] -> Loading bot plugins...
+[08/10/2024 03:01:19][bot][INFO] -> Loaded 4 plugins.
+[08/10/2024 03:01:19][bot][INFO] -> Bot is now ready!
+[08/10/2024 03:01:25][uvicorn.access][INFO] -> 127.0.0.1:56879 - "GET /dl/4552?code=b3e328763ba0 HTTP/1.1" 200
+[08/10/2024 03:04:55][bot][INFO] -> initializing...
+[08/10/2024 03:04:55][uvicorn][INFO] -> Web server is started!
+[08/10/2024 03:04:55][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[08/10/2024 03:04:55][bot][INFO] -> Telegram client is now started.
+[08/10/2024 03:04:55][bot][INFO] -> Loading bot plugins...
+[08/10/2024 03:04:55][bot][INFO] -> Loaded 4 plugins.
+[08/10/2024 03:04:55][bot][INFO] -> Bot is now ready!
+[08/10/2024 03:05:02][uvicorn.access][INFO] -> 127.0.0.1:56970 - "GET /dl/4552?code=b3e328763ba0 HTTP/1.1" 200
+[08/10/2024 03:05:27][bot][INFO] -> initializing...
+[08/10/2024 03:05:27][uvicorn][INFO] -> Web server is started!
+[08/10/2024 03:05:27][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[08/10/2024 03:05:27][bot][INFO] -> Telegram client is now started.
+[08/10/2024 03:05:27][bot][INFO] -> Loading bot plugins...
+[08/10/2024 03:05:27][bot][INFO] -> Loaded 4 plugins.
+[08/10/2024 03:05:27][bot][INFO] -> Bot is now ready!
+[08/10/2024 03:05:32][uvicorn.access][INFO] -> 127.0.0.1:56992 - "GET /dl/4552?code=b3e328763ba0 HTTP/1.1" 200
+[08/10/2024 03:06:15][bot][INFO] -> initializing...
+[08/10/2024 03:06:15][uvicorn][INFO] -> Web server is started!
+[08/10/2024 03:06:15][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[08/10/2024 03:06:16][bot][INFO] -> Telegram client is now started.
+[08/10/2024 03:06:16][bot][INFO] -> Loading bot plugins...
+[08/10/2024 03:06:16][bot][INFO] -> Loaded 4 plugins.
+[08/10/2024 03:06:16][bot][INFO] -> Bot is now ready!
+[08/10/2024 03:06:18][uvicorn.access][INFO] -> 127.0.0.1:57006 - "GET /dl/4552?code=b3e328763ba0 HTTP/1.1" 200
+[08/10/2024 03:07:03][bot][INFO] -> initializing...
+[08/10/2024 03:07:03][uvicorn][INFO] -> Web server is started!
+[08/10/2024 03:07:03][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[08/10/2024 03:07:04][bot][INFO] -> Telegram client is now started.
+[08/10/2024 03:07:04][bot][INFO] -> Loading bot plugins...
+[08/10/2024 03:07:04][bot][INFO] -> Loaded 4 plugins.
+[08/10/2024 03:07:04][bot][INFO] -> Bot is now ready!
+[08/10/2024 03:07:11][uvicorn.access][INFO] -> 127.0.0.1:57037 - "GET /dl/4552?code=b3e328763ba0 HTTP/1.1" 200
+[08/10/2024 03:07:50][bot][INFO] -> initializing...
+[08/10/2024 03:07:50][uvicorn][INFO] -> Web server is started!
+[08/10/2024 03:07:50][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[08/10/2024 03:07:50][bot][INFO] -> Telegram client is now started.
+[08/10/2024 03:07:50][bot][INFO] -> Loading bot plugins...
+[08/10/2024 03:07:50][bot][INFO] -> Loaded 4 plugins.
+[08/10/2024 03:07:50][bot][INFO] -> Bot is now ready!
+[08/10/2024 03:07:52][uvicorn.access][INFO] -> 127.0.0.1:57069 - "GET /dl/4552?code=b3e328763ba0 HTTP/1.1" 200
+[08/10/2024 18:48:11][bot][INFO] -> initializing...
+[08/10/2024 18:48:11][uvicorn][INFO] -> Web server is started!
+[08/10/2024 18:48:11][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[08/10/2024 18:48:12][bot][INFO] -> Telegram client is now started.
+[08/10/2024 18:48:12][bot][INFO] -> Loading bot plugins...
+[08/10/2024 18:48:12][bot][INFO] -> Loaded 4 plugins.
+[08/10/2024 18:48:12][bot][INFO] -> Bot is now ready!
+[08/10/2024 18:48:40][uvicorn.access][INFO] -> 127.0.0.1:58681 - "GET /stream/4547?code=6e443fd057c2 HTTP/1.1" 200
+[08/10/2024 18:48:40][uvicorn.access][INFO] -> 127.0.0.1:58681 - "GET /dl/4547?code=6e443fd057c2 HTTP/1.1" 206
+[08/10/2024 18:50:31][bot][INFO] -> initializing...
+[08/10/2024 18:50:31][bot][INFO] -> Telegram client is now started.
+[08/10/2024 18:50:31][bot][INFO] -> Loading bot plugins...
+[08/10/2024 18:50:31][bot][INFO] -> Loaded 4 plugins.
+[08/10/2024 18:50:31][bot][INFO] -> Bot is now ready!
+[08/10/2024 18:50:31][uvicorn][INFO] -> Web server is started!
+[08/10/2024 18:50:31][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[08/10/2024 18:50:51][bot][INFO] -> initializing...
+[08/10/2024 18:50:51][uvicorn][INFO] -> Web server is started!
+[08/10/2024 18:50:51][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[08/10/2024 18:50:52][bot][INFO] -> Telegram client is now started.
+[08/10/2024 18:50:52][bot][INFO] -> Loading bot plugins...
+[08/10/2024 18:50:52][bot][INFO] -> Loaded 4 plugins.
+[08/10/2024 18:50:52][bot][INFO] -> Bot is now ready!
+[08/10/2024 18:50:57][uvicorn.access][INFO] -> 127.0.0.1:58760 - "GET /stream/4547?code=6e443fd057c2 HTTP/1.1" 200
+[08/10/2024 18:50:57][uvicorn.access][INFO] -> 127.0.0.1:58760 - "GET /dl/4547?code=6e443fd057c2 HTTP/1.1" 206
+[08/10/2024 18:52:11][bot][INFO] -> initializing...
+[08/10/2024 18:52:11][uvicorn][INFO] -> Web server is started!
+[08/10/2024 18:52:11][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[08/10/2024 18:52:12][bot][INFO] -> Telegram client is now started.
+[08/10/2024 18:52:12][bot][INFO] -> Loading bot plugins...
+[08/10/2024 18:52:12][bot][INFO] -> Loaded 4 plugins.
+[08/10/2024 18:52:12][bot][INFO] -> Bot is now ready!
+[08/10/2024 18:52:25][uvicorn.access][INFO] -> 127.0.0.1:58830 - "GET /stream/4526?hash=cbd257 HTTP/1.1" 401
+[08/10/2024 18:52:25][uvicorn.access][INFO] -> 127.0.0.1:58830 - "GET /favicon.ico HTTP/1.1" 404
+[08/10/2024 18:52:38][uvicorn.access][INFO] -> 127.0.0.1:58834 - "GET /stream/4549?code=f75c73ecade1 HTTP/1.1" 200
+[08/10/2024 18:52:39][uvicorn.access][INFO] -> 127.0.0.1:58834 - "GET /dl/4549?code=f75c73ecade1 HTTP/1.1" 206
+[08/10/2024 18:52:46][uvicorn.access][INFO] -> 127.0.0.1:58835 - "GET /dl/4549?code=f75c73ecade1 HTTP/1.1" 200
