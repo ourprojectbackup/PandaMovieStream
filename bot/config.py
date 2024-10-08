@@ -23,7 +23,7 @@ class Telegram:
     SECRET_CODE_LENGTH = 6
 
 class Server:
-    BASE_URL = env.get("BASE_URL", "http://164.92.130.158:8080")
+    BASE_URL = env.get("BASE_URL", "http://164.92.130.158:7000")
     BIND_ADDRESS = env.get("BIND_ADDRESS", "0.0.0.0")
     PORT = int(env.get("PORT", 8080))
 
